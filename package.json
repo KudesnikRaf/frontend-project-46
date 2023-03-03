@@ -19,8 +19,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-     "gendiff.js": "bin/gendiff.js"
-},
-  "author": "",
-  "license": "ISC"
+    "gendiff.js": "bin/gendiff.js"
+  }
 }
